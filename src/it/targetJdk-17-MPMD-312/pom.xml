@@ -37,7 +37,6 @@ under the License.
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>@compilerPluginVersion@</version>
           <configuration>
             <target>${javaVersion}</target>
             <source>${javaVersion}</source>

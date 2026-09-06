@@ -77,7 +77,7 @@ under the License.
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jxr-plugin</artifactId>
-        <version>@jxrPluginVersion@</version>
+        <version>@it.jxrPluginVersion@</version>
       </plugin>
     </plugins>
   </reporting>
